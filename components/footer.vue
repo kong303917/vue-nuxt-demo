@@ -1,8 +1,8 @@
 <template>
   <div id="footer">
-    2017 &copy; orimuse. all right reserved.
+    2017 &copy; jumore. all right reserved.
     <div class="right">
-      orimuse management system
+      jumore management system
     </div>
   </div>
 </template>

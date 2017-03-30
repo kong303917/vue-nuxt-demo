@@ -1,7 +1,7 @@
 <template>
   <div id="header">
     <div class="logo">
-      <router-link to="dashboard"><img src="http://static.orimuse.com/assets/images/header/logo.png" height="30"></router-link>
+      <router-link to="dashboard"><img src="../assets/img/logo-1.png" height="30"></router-link>
     </div>
     <div class="username">
       欢迎回来，{{loginUser}}。
